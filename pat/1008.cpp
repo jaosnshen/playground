@@ -1,4 +1,4 @@
-nclude<iostream>
+#include<iostream>
 #define MAXN 10000
 using namespace std;
 int sum[MAXN];
