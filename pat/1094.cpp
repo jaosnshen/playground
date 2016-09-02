@@ -1,4 +1,4 @@
-nclude <iostream>
+#include <iostream>
 #include <map>
 #include <vector>
 #define  MAXN 101

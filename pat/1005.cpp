@@ -1,4 +1,4 @@
-nclude<iostream>
+#include<iostream>
 #include<string>
 using namespace std;
 string s[]={"zero","one","two","three","four","five","six","seven","eight","nine"};

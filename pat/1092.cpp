@@ -1,4 +1,4 @@
-nclude <iostream>
+#include <iostream>
 #include <string>
 #define  MAXN 1000
 using namespace std;
