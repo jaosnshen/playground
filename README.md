@@ -1,2 +1,4 @@
 # playground
-浙江大学pat
+
+Zhejian university Programming Ability Test
+URL:https://www.patest.cn/contests/pat-a-practise
